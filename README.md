@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://www.pinterest.com/pin/834291899736366388/">
     <img
-      src="https://i.pinimg.com/736x/85/5f/32/855f329aa99b3ceaf8d975aa2f42147d.jpg"
+      src="https://i.pinimg.com/736x/48/49/60/484960a0d6447c7a572116d541c65f48.jpg"
       width="510"
       alt="Two adorable cats cuddling in a pink-and-lavender scene — Pinterest"
     />
