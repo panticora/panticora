@@ -14,7 +14,7 @@
       alt="Two adorable cats cuddling in a pink-and-lavender scene — Pinterest"
     />
   </a>
-  <p><sub>🌷 what is this omaga ♡</sub></p>
+  <p><sub>(feeling shitty but its ok & pls dont shout on me)</sub></p>
 
   <h1>₍^. .^₎⟆ こんにちは、世界！ I'm panticora 🌸</h1>
 
